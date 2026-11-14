@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Ds/mp3/MP3-Player-Project-for-Data-Structures-Course-master/Source Code"/>
+	<classpathentry kind="lib" path="Ds/mp3/MP3-Player-Project-for-Data-Structures-Course-master/jl1.0.1.jar"/>
+	<classpathentry kind="output" path="Ds/out/production/Ds"/>
+</classpath>
